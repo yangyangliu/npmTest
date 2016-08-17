@@ -1,0 +1,24 @@
+{
+  "name": "npmsets",
+  "version": "1.0.0",
+  "description": "这是一个测试项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yangyangliu/npmTest.git"
+  },
+  "keywords": [
+    "npm",
+    "test",
+    "node"
+  ],
+  "author": "lyy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangyangliu/npmTest/issues"
+  },
+  "homepage": "https://github.com/yangyangliu/npmTest"
+}
